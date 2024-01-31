@@ -1,43 +1,43 @@
 ## JavaScript
 
-- Language
-  - `Object`
-  - `Function`
-  - `Boolean`
-  - `Number`
-  - `BigInt`
-  - `String`
-  - `Symbol`
-  - `Infinity`
+- Language 
+  - `Object` ~
+  - `Function`~
+  - `Boolean`~
+  - `Number`~
+  - `BigInt`~
+  - `String`~
+  - `Symbol`~
+  - `Infinity`~
   - `NaN`
   - `undefined`
-  - `null`
+  - `null`~
   - `this`
   - `instanceof`
   - `...spread`
   - `...rest`
-  - `typeof`
+  - `typeof`~
   - Destructuring
   - Generators
-  - Iterators
+  - Iterators~
   - Async generator
   - Async iterator
   - Chaining
   - Optional chaining
   - IIFE
   - Async IIFE
-  - `global`
+  - `global`~
   - `globalThis`
-  - `window`
+  - `window`~
   - Getters and setters
   - `__proto__`
   - `prototype`
   - Equality operators
-  - Logical operators
-  - Logical Assignment
-  - Bitwise operators
-  - Ternary operator
-  - `void`
+  - Logical operators ~
+  - Logical Assignment ~
+  - Bitwise operators ~
+  - Ternary operator ~
+  - `void`~
   - `yield`
   - `await`
   - Template literal
@@ -59,21 +59,21 @@
   - Private class fields
   - Private class methods
 - Statements
-  - `if`
-  - `while`
-  - `do..while`
-  - `for`
+  - `if` ~
+  - `while` ~
+  - `do..while`~
+  - `for`~
   - `for..in`
   - `for..of`
   - `for await`
   - `throw`
-  - `break`
-  - `continue`
-  - `import`
+  - `break`~
+  - `continue`~
+  - `import`~
   - `export`
   - `label`
   - `try..catch`
-  - `switch`
+  - `switch`~
   - `class`
   - `extends`
   - `with`
@@ -90,8 +90,8 @@
   - `Function.prototype.apply`
   - `return`
 - Data structures
-  - `Array`
-  - `Map`
+  - `Array`~
+  - `Map`~
   - `Set`
   - Weak collections
   - Typed arrays
@@ -110,7 +110,7 @@
   - `FinalizationRegistry`
   - `Intl`
   - `Promise`
-  - `console`
+  - `console`~
   - Timers
 - Infrastructure
   - V8
