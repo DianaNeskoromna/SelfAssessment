@@ -1,29 +1,29 @@
 ## Programming fundamental concepts
 
-- Concepts
+- Concepts 
   - Model
   - Modeling
   - Subject domain
-  - Algorithm
-  - Syntax
-  - Semantics
+  - Algorithm * 
+  - Syntax *
+  - Semantics *
   - Abstraction
-  - Paradigm
-  - Programm
-  - Programming paradigm
-  - Programming language
+  - Paradigm *
+  - Programm *
+  - Programming paradigm *
+  - Programming language *
   - Contract
   - Module
-  - Library
+  - Library *
   - Package
   - Component
   - Framework
   - Platform
-  - Source code
+  - Source code ~
   - Object code
-  - Machine code
+  - Machine code ~
   - Microcode
-  - Software engineering
+  - Software engineering h
   - Decomposition
   - Control flow
   - Data flow
@@ -34,27 +34,27 @@
 - Syntax and concepts
   - Value
   - Identifier
-  - Variable
-  - Constant
+  - Variable *
+  - Constant *
   - Scalar
-  - Literal
+  - Literal*
   - Expression
   - Heap
-  - Function
+  - Function *
   - Procedure
   - Method
   - Class
   - Prototype
-  - Event
-  - Type
-  - Flag
+  - Event*
+  - Type*
+  - Flag~
   - Lexical scope
-  - Code block
+  - Code block 
   - Conditions
   - Loops
-  - Assignment
+  - Assignment *
   - Regular expression
-  - Interface
+  - Interface ~
   - Namespaces
   - Call stack
   - Naming conventions
@@ -82,16 +82,16 @@
   - Contravariance
 - Functions
   - Signature
-  - Argument
-  - Parameter
-  - Pure function
-  - Lambda expression
+  - Argument *
+  - Parameter *
+  - Pure function 
+  - Lambda expression *
   - Side effects
   - Closure
   - Partial application
   - Currying
   - Higher order
-  - Recursion
+  - Recursion *
   - Tail call optimisation
   - Callback
   - Listener
@@ -105,8 +105,8 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array
-  - Structure
+  - Array *
+  - Structure *
   - Record
   - Enum
   - Instance
@@ -119,11 +119,11 @@
   - Unrolled list
   - Circular list
   - Queue
-  - Stack
+  - Stack ~
   - Deque
-  - Tree
+  - Tree *
   - Graph
-  - Iterator
+  - Iterator *
   - Mutable state
   - Immutable state
   - Serialization
@@ -138,18 +138,18 @@
   - IPv4
   - IPv6
   - NAT
-  - URL
+  - URL *
   - URN
   - URI
 - Process and tools
-  - Compiler
+  - Compiler *
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler
   - Linter
   - Polyfill
-  - Interpreter
-  - Linker
+  - Interpreter *
+  - Linker 
   - Dynamic linking
   - Static linking
   - Runtime
@@ -157,15 +157,15 @@
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger
-  - Tracing
+  - Debugger ~
+  - Tracing 
   - Garbage collection
   - Refactoring
   - Code review
   - Exception
   - Unittesting
-  - git
-  - Hithub
+  - git ~
+  - Hithub ~
   - Docker
   - Kubernetes
   - GCC
@@ -181,19 +181,19 @@
   - Spaghetti
   - Silver bullet
   - Not invented here
-  - Dead code
+  - Dead code *
   - Unreachable code
-  - Duplicate code
+  - Duplicate code *
   - Premature optimization
   - Micro-optimization
   - Nested loops
   - Long method/function/procedure
   - Long inheritance
   - Large class/file
-  - Too many parameters
+  - Too many parameters *
   - Pass-through parameters
   - Accumulate and fire
-  - Use switch/case
+  - Use switch/case *
   - Temporary field
   - Handle object as instances and hashes at the same time
   - Use fields instead of arguments
@@ -214,26 +214,26 @@
   - Ring
   - Virtual memory
   - File system
-  - Linux
-  - Unix
+  - Linux *
+  - Unix ~
   - BSD
-  - MacOS
-  - Windows
+  - MacOS *
+  - Windows 
   - Real-time OS
   - Embedded OS
 - Standards
-  - ASCII
+  - ASCII *
   - Escape sequence
   - RFC
   - IETF
   - IANA
   - IEEE
-  - Base64
+  - Base64 ~
   - ECMA
   - ICANN
   - ISO
   - MIME
   - OWASP
-  - UTF-8
+  - UTF-8 *
   - W3C
   - ODMG
