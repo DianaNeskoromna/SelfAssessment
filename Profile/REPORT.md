@@ -1,13 +1,13 @@
 ## Software engineering self assessment
 
-[![Skills](https://img.shields.io/badge/Self_Assessment-1/57/730-009933?style=flat-square)](https://github.com/DianaNeskoromna/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-29/97/730-009933?style=flat-square)](https://github.com/DianaNeskoromna/SelfAssessment/blob/main/Profile/REPORT.md)
 
 ```
-[![Skills](https://img.shields.io/badge/Self_Assessment-1/57/730-009933?style=flat-square)](https://github.com/DianaNeskoromna/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-29/97/730-009933?style=flat-square)](https://github.com/DianaNeskoromna/SelfAssessment/blob/main/Profile/REPORT.md)
 ```
 
 ```
-<a href="https://github.com/DianaNeskoromna/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-1/57/730-009933?style=flat-square"></a>
+<a href="https://github.com/DianaNeskoromna/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-29/97/730-009933?style=flat-square"></a>
 ```
 
 ## Assessment totals
@@ -27,11 +27,11 @@
 | &nbsp;&nbsp;&nbsp;&nbsp; Operation systems | `0` | `13` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Standards | `0` | `15` |
 | [JavaScript](/Skills/JavaScript.md) | | |
-| &nbsp;&nbsp;&nbsp;&nbsp; Language | `1` | `57` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Statements | `0` | `19` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Language | `18` | `57` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Statements | `8` | `19` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Functions | `0` | `10` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Data structures | `0` | `7` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Standard classes and namespaces | `0` | `14` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Data structures | `2` | `7` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Standard classes and namespaces | `1` | `14` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Infrastructure | `0` | `6` |
 | [Async](/Skills/Async.md) | | |
 | &nbsp;&nbsp;&nbsp;&nbsp; Theory | `0` | `20` |
@@ -67,8 +67,79 @@
 
 | To start asynchronous programming | actual | ⟶  | required |
 | --- | --- | --- | --- |
+| `Object` | 👂 heard | ⟶  | 🖐️ used |
+| `Function` | 👂 heard | ⟶  | 🖐️ used |
+| `Boolean` | 👂 heard | ⟶  | 🖐️ used |
+| `Number` | 👂 heard | ⟶  | 🖐️ used |
+| `Symbol` | 👂 heard | ⟶  | 🎓 known |
+| `undefined` | 🤷 unknown | ⟶  | 🖐️ used |
+| `null` | 👂 heard | ⟶  | 🖐️ used |
+| `this` | 🤷 unknown | ⟶  | 🖐️ used |
+| `instanceof` | 🤷 unknown | ⟶  | 🖐️ used |
+| `...spread` | 🤷 unknown | ⟶  | 🖐️ used |
+| `...rest` | 🤷 unknown | ⟶  | 🖐️ used |
+| `typeof` | 👂 heard | ⟶  | 🖐️ used |
+| Destructuring | 🤷 unknown | ⟶  | 🖐️ used |
+| Generators | 🤷 unknown | ⟶  | 👂 heard |
+| Async generator | 🤷 unknown | ⟶  | 👂 heard |
+| Async iterator | 🤷 unknown | ⟶  | 👂 heard |
+| Chaining | 🤷 unknown | ⟶  | 👂 heard |
+| Optional chaining | 🤷 unknown | ⟶  | 👂 heard |
+| IIFE | 🤷 unknown | ⟶  | 👂 heard |
+| Async IIFE | 🤷 unknown | ⟶  | 👂 heard |
+| `global` | 👂 heard | ⟶  | 🎓 known |
+| `globalThis` | 🤷 unknown | ⟶  | 👂 heard |
+| Getters and setters | 🤷 unknown | ⟶  | 👂 heard |
+| `prototype` | 🤷 unknown | ⟶  | 👂 heard |
+| Equality operators | 🤷 unknown | ⟶  | 🖐️ used |
+| Logical operators | 👂 heard | ⟶  | 🖐️ used |
+| Ternary operator | 👂 heard | ⟶  | 🖐️ used |
+| `yield` | 🤷 unknown | ⟶  | 👂 heard |
+| `await` | 🤷 unknown | ⟶  | 👂 heard |
+| Template literal | 🤷 unknown | ⟶  | 🖐️ used |
+| Strict mode | 🤷 unknown | ⟶  | 🖐️ used |
+| `super` | 🤷 unknown | ⟶  | 🖐️ used |
+| `static` | 🤷 unknown | ⟶  | 👂 heard |
+| Private class fields | 🤷 unknown | ⟶  | 🎓 known |
+| Private class methods | 🤷 unknown | ⟶  | 🎓 known |
+| `if` | 👂 heard | ⟶  | 🖐️ used |
+| `while` | 👂 heard | ⟶  | 🖐️ used |
+| `do..while` | 👂 heard | ⟶  | 🎓 known |
+| `for` | 👂 heard | ⟶  | 🖐️ used |
+| `for..of` | 🤷 unknown | ⟶  | 🖐️ used |
+| `for await` | 🤷 unknown | ⟶  | 👂 heard |
+| `throw` | 🤷 unknown | ⟶  | 🖐️ used |
+| `break` | 👂 heard | ⟶  | 🎓 known |
+| `continue` | 👂 heard | ⟶  | 🎓 known |
+| `import` | 👂 heard | ⟶  | 🎓 known |
+| `export` | 🤷 unknown | ⟶  | 🎓 known |
+| `try..catch` | 🤷 unknown | ⟶  | 🎓 known |
+| `class` | 🤷 unknown | ⟶  | 🖐️ used |
+| `extends` | 🤷 unknown | ⟶  | 🖐️ used |
+| `new` | 🤷 unknown | ⟶  | 🖐️ used |
+| Arrow function | 🤷 unknown | ⟶  | 🖐️ used |
+| Async function | 🤷 unknown | ⟶  | 🎓 known |
+| Function declaration | 🤷 unknown | ⟶  | 🖐️ used |
+| Function expression | 🤷 unknown | ⟶  | 🖐️ used |
+| Default parameters | 🤷 unknown | ⟶  | 🖐️ used |
+| Functional object | 🤷 unknown | ⟶  | 👂 heard |
+| `return` | 🤷 unknown | ⟶  | 🖐️ used |
+| `Array` | 👂 heard | ⟶  | 🖐️ used |
+| `Map` | 👂 heard | ⟶  | 🖐️ used |
+| `Set` | 🤷 unknown | ⟶  | 🖐️ used |
+| Mixins | 🤷 unknown | ⟶  | 🎓 known |
+| `Object.assign` | 🤷 unknown | ⟶  | 🎓 known |
+| `Proxy` | 🤷 unknown | ⟶  | 🎓 known |
+| `Error` | 🤷 unknown | ⟶  | 🖐️ used |
+| `WeakRef` | 🤷 unknown | ⟶  | 👂 heard |
+| `FinalizationRegistry` | 🤷 unknown | ⟶  | 👂 heard |
+| `Promise` | 🤷 unknown | ⟶  | 👂 heard |
+| `console` | 👂 heard | ⟶  | 🖐️ used |
+| Timers | 🤷 unknown | ⟶  | 🖐️ used |
+| V8 | 🤷 unknown | ⟶  | 👂 heard |
+| prettier | 🤷 unknown | ⟶  | 🎓 known |
 
-Total: you have `0` of `72` skills, `72` to be upgraded, and `0` above needed
+Total: you have `1` of `72` skills, `71` to be upgraded, and `0` above needed
 
 | To start Node.js | actual | ⟶  | required |
 | --- | --- | --- | --- |

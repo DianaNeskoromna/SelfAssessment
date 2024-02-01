@@ -1,43 +1,43 @@
 ## JavaScript
 
 - Language
-  - `Object`
-  - `Function`
+  - `Object`: 👂 heard
+  - `Function`: 👂 heard
   - `Boolean`: 👂 heard
-  - `Number`
-  - `BigInt`
-  - `String`
-  - `Symbol`
-  - `Infinity`
+  - `Number`: 👂 heard
+  - `BigInt`: 👂 heard
+  - `String`: 👂 heard
+  - `Symbol`: 👂 heard
+  - `Infinity`: 👂 heard
   - `NaN`
   - `undefined`
-  - `null`
+  - `null`: 👂 heard
   - `this`
   - `instanceof`
   - `...spread`
   - `...rest`
-  - `typeof`
+  - `typeof`: 👂 heard
   - Destructuring
   - Generators
-  - Iterators
+  - Iterators: 👂 heard
   - Async generator
   - Async iterator
   - Chaining
   - Optional chaining
   - IIFE
   - Async IIFE
-  - `global`
+  - `global`: 👂 heard
   - `globalThis`
-  - `window`
+  - `window`: 👂 heard
   - Getters and setters
   - `__proto__`
   - `prototype`
   - Equality operators
-  - Logical operators
-  - Logical Assignment
-  - Bitwise operators
-  - Ternary operator
-  - `void`
+  - Logical operators: 👂 heard
+  - Logical Assignment: 👂 heard
+  - Bitwise operators: 👂 heard
+  - Ternary operator: 👂 heard
+  - `void`: 👂 heard
   - `yield`
   - `await`
   - Template literal
@@ -59,21 +59,21 @@
   - Private class fields
   - Private class methods
 - Statements
-  - `if`
-  - `while`
-  - `do..while`
-  - `for`
+  - `if`: 👂 heard
+  - `while`: 👂 heard
+  - `do..while`: 👂 heard
+  - `for`: 👂 heard
   - `for..in`
   - `for..of`
   - `for await`
   - `throw`
-  - `break`
-  - `continue`
-  - `import`
+  - `break`: 👂 heard
+  - `continue`: 👂 heard
+  - `import`: 👂 heard
   - `export`
   - `label`
   - `try..catch`
-  - `switch`
+  - `switch`: 👂 heard
   - `class`
   - `extends`
   - `with`
@@ -90,8 +90,8 @@
   - `Function.prototype.apply`
   - `return`
 - Data structures
-  - `Array`
-  - `Map`
+  - `Array`: 👂 heard
+  - `Map`: 👂 heard
   - `Set`
   - Weak collections
   - Typed arrays
@@ -110,7 +110,7 @@
   - `FinalizationRegistry`
   - `Intl`
   - `Promise`
-  - `console`
+  - `console`: 👂 heard
   - Timers
 - Infrastructure
   - V8
