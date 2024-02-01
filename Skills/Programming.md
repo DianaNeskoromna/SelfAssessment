@@ -1,29 +1,29 @@
 ## Programming fundamental concepts
 
-- Concepts 
+- Concepts
   - Model
   - Modeling
   - Subject domain
-  - Algorithm * 
-  - Syntax *
-  - Semantics *
+  - Algorithm: 🖐️ used
+  - Syntax: 🖐️ used
+  - Semantics: 🖐️ used
   - Abstraction
-  - Paradigm *
-  - Programm *
-  - Programming paradigm *
-  - Programming language *
+  - Paradigm: 🖐️ used
+  - Programm: 🖐️ used
+  - Programming paradigm: 🖐️ used
+  - Programming language: 🖐️ used
   - Contract
   - Module
-  - Library *
+  - Library: 🖐️ used
   - Package
   - Component
   - Framework
   - Platform
-  - Source code ~
+  - Source code: 👂 heard
   - Object code
-  - Machine code ~
+  - Machine code: 👂 heard
   - Microcode
-  - Software engineering h
+  - Software engineering: 👂 heard
   - Decomposition
   - Control flow
   - Data flow
@@ -34,27 +34,27 @@
 - Syntax and concepts
   - Value
   - Identifier
-  - Variable *
-  - Constant *
+  - Variable: 🖐️ used
+  - Constant: 🖐️ used
   - Scalar
-  - Literal*
+  - Literal: 🖐️ used
   - Expression
   - Heap
-  - Function *
+  - Function: 🖐️ used
   - Procedure
   - Method
   - Class
   - Prototype
-  - Event*
-  - Type*
-  - Flag~
+  - Event: 🖐️ used
+  - Type: 🖐️ used
+  - Flag: 👂 heard
   - Lexical scope
-  - Code block 
+  - Code block
   - Conditions
   - Loops
-  - Assignment *
+  - Assignment: 🖐️ used
   - Regular expression
-  - Interface ~
+  - Interface: 👂 heard
   - Namespaces
   - Call stack
   - Naming conventions
@@ -82,16 +82,16 @@
   - Contravariance
 - Functions
   - Signature
-  - Argument *
-  - Parameter *
-  - Pure function 
-  - Lambda expression *
+  - Argument: 🖐️ used
+  - Parameter: 🖐️ used
+  - Pure function
+  - Lambda expression: 🖐️ used
   - Side effects
   - Closure
   - Partial application
   - Currying
   - Higher order
-  - Recursion *
+  - Recursion: 🖐️ used
   - Tail call optimisation
   - Callback
   - Listener
@@ -105,8 +105,8 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array *
-  - Structure *
+  - Array: 🖐️ used
+  - Structure: 🖐️ used
   - Record
   - Enum
   - Instance
@@ -119,11 +119,11 @@
   - Unrolled list
   - Circular list
   - Queue
-  - Stack ~
+  - Stack: 👂 heard
   - Deque
-  - Tree *
+  - Tree: 🖐️ used
   - Graph
-  - Iterator *
+  - Iterator: 🖐️ used
   - Mutable state
   - Immutable state
   - Serialization
@@ -138,18 +138,18 @@
   - IPv4
   - IPv6
   - NAT
-  - URL *
+  - URL: 🖐️ used
   - URN
   - URI
 - Process and tools
-  - Compiler *
+  - Compiler: 🖐️ used
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler
   - Linter
   - Polyfill
-  - Interpreter *
-  - Linker 
+  - Interpreter: 🖐️ used
+  - Linker
   - Dynamic linking
   - Static linking
   - Runtime
@@ -157,15 +157,15 @@
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger ~
-  - Tracing 
+  - Debugger: 👂 heard
+  - Tracing
   - Garbage collection
   - Refactoring
   - Code review
   - Exception
   - Unittesting
-  - git ~
-  - Hithub ~
+  - git: 👂 heard
+  - Hithub: 👂 heard
   - Docker
   - Kubernetes
   - GCC
@@ -181,19 +181,19 @@
   - Spaghetti
   - Silver bullet
   - Not invented here
-  - Dead code *
+  - Dead code: 🖐️ used
   - Unreachable code
-  - Duplicate code *
+  - Duplicate code: 🖐️ used
   - Premature optimization
   - Micro-optimization
   - Nested loops
   - Long method/function/procedure
   - Long inheritance
   - Large class/file
-  - Too many parameters *
+  - Too many parameters: 🖐️ used
   - Pass-through parameters
   - Accumulate and fire
-  - Use switch/case *
+  - Use switch/case: 🖐️ used
   - Temporary field
   - Handle object as instances and hashes at the same time
   - Use fields instead of arguments
@@ -214,26 +214,26 @@
   - Ring
   - Virtual memory
   - File system
-  - Linux *
-  - Unix ~
+  - Linux: 🖐️ used
+  - Unix: 👂 heard
   - BSD
-  - MacOS *
-  - Windows 
+  - MacOS: 🖐️ used
+  - Windows
   - Real-time OS
   - Embedded OS
 - Standards
-  - ASCII *
+  - ASCII: 🖐️ used
   - Escape sequence
   - RFC
   - IETF
   - IANA
   - IEEE
-  - Base64 ~
+  - Base64: 👂 heard
   - ECMA
   - ICANN
   - ISO
   - MIME
   - OWASP
-  - UTF-8 *
+  - UTF-8: 🖐️ used
   - W3C
   - ODMG
