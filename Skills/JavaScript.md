@@ -3,7 +3,7 @@
 - Language
   - `Object`
   - `Function`
-  - `Boolean` ~
+  - `Boolean`: 👂 heard
   - `Number`
   - `BigInt`
   - `String`
