@@ -1,13 +1,13 @@
 ## Software engineering self assessment
 
-[![Skills](https://img.shields.io/badge/Self_Assessment-74/304/730-009933?style=flat-square)](https://github.com/DianaNeskoromna/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-75/329/730-009933?style=flat-square)](https://github.com/DianaNeskoromna/SelfAssessment/blob/main/Profile/REPORT.md)
 
 ```
-[![Skills](https://img.shields.io/badge/Self_Assessment-74/304/730-009933?style=flat-square)](https://github.com/DianaNeskoromna/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-75/329/730-009933?style=flat-square)](https://github.com/DianaNeskoromna/SelfAssessment/blob/main/Profile/REPORT.md)
 ```
 
 ```
-<a href="https://github.com/DianaNeskoromna/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-74/304/730-009933?style=flat-square"></a>
+<a href="https://github.com/DianaNeskoromna/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-75/329/730-009933?style=flat-square"></a>
 ```
 
 ## Assessment totals
@@ -51,7 +51,7 @@
 | &nbsp;&nbsp;&nbsp;&nbsp; Error handling and debugging | `0` | `14` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Integrations and bindings | `0` | `16` |
 | [Paradigms](/Skills/Paradigms.md) | | |
-| &nbsp;&nbsp;&nbsp;&nbsp; Theory | `0` | `25` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Theory | `1` | `25` |
 | &nbsp;&nbsp;&nbsp;&nbsp; OOP basics | `0` | `21` |
 | &nbsp;&nbsp;&nbsp;&nbsp; GRASP | `0` | `8` |
 | &nbsp;&nbsp;&nbsp;&nbsp; SOLID | `0` | `5` |
